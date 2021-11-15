@@ -1,4 +1,4 @@
-### [For Commits:](https://gitlab.com/ahmetseha/vue-project-2).
+### [Click](https://gitlab.com/ahmetseha/vue-project-2) for commits
 
 # vue-project
 
