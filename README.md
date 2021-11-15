@@ -1,5 +1,3 @@
-### [Click](https://gitlab.com/ahmetseha/vue-project-2) for commits
-
 # vue-project
 
 ## Project setup
